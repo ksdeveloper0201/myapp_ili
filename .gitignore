@@ -1,0 +1,13 @@
+
+
+
+venv_ili/
+
+## backend
+*.pyc
+__pycache__
+flaskvenv/
+.vscode/
+
+# __pycache__/
+# *.pyc
