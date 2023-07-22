@@ -1,0 +1,6 @@
+dev container
+figma
+autodocstring etc...　
+
+コミットの際に自動でtestまで実行してくれるツール
+husky

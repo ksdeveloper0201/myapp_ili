@@ -1,13 +1,6 @@
-
-
-
-venv_ili/
-
 ## backend
+venv_ili/
 *.pyc
 __pycache__
 flaskvenv/
 .vscode/
-
-# __pycache__/
-# *.pyc
