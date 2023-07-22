@@ -1,12 +1,3 @@
-## backend
-venv_ili/
-*.pyc
-__pycache__
-flaskvenv/
-.vscode/
-
-
-##frontend
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
